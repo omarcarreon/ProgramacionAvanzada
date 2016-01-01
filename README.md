@@ -1,3 +1,3 @@
 # ProgramacionAvanzada
-Code snippets from Advanced Programming ITESM class.
+Code snippets from Advanced Programming class at ITESM.
 
